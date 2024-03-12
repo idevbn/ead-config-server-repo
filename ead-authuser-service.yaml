@@ -42,7 +42,7 @@ ead:
 
 authuser:
   refreshscope:
-    name: Idevaldo Neto
+    name: idevbn
 
 management:
   endpoints:
